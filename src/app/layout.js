@@ -1,5 +1,6 @@
 import './globals.css';
 import './green.css';
+import './z.css';
 import './yellow.css'; 
 // import { Inter } from 'next/font/google';
 
